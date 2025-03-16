@@ -36,6 +36,7 @@ cv2.imwrite("colorized_output.jpg", cv2.cvtColor(colorized_img, cv2.COLOR_RGB2BG
 files.download("colorized_output.jpg")
 
 🎯 Expected![colorized_output (1)](https://github.com/user-attachments/assets/1a7d214a-784a-4fb4-bda3-18a870f18e09)
+
  Output
 A black & white image on the left
 A colorized image on the right ✅
