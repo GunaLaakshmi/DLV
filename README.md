@@ -35,7 +35,8 @@ The final image is saved and downloaded.
 cv2.imwrite("colorized_output.jpg", cv2.cvtColor(colorized_img, cv2.COLOR_RGB2BGR))
 files.download("colorized_output.jpg")
 
-🎯 Expected Output
+🎯 Expected![colorized_output (1)](https://github.com/user-attachments/assets/1a7d214a-784a-4fb4-bda3-18a870f18e09)
+ Output
 A black & white image on the left
 A colorized image on the right ✅
 📸 You uploaded an image earlier. Try running the code in Google Colab to get the best results! 🚀 Let me know if you need improvements. 😊
